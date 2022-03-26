@@ -33,12 +33,4 @@ Mediante un selector id con nombre "main" tendra un padding a la izquierda y der
 # Regla 14: 
 Las etiquetas p combinados con el selector "#main" tendran una fuente de 16px.
 # Regla 15: 
-<<<<<<< HEAD
 Las etiquetas h2 combinados con el selector "main" tendran una fuente de 200px.
-"# A5-Lewis-Hamilton" 
-=======
-Las etiquetas h2 combinados con el selector "#main" tendran una fuente de 200px.
->>>>>>> 20e136264a16bcb69b63e24f1fa0ba159b44fb04
-"# A5-Lewis-Hamilton" 
-"# A5-Lewis-Hamilton" 
-"# A5-Lewis-Hamitlon" 
